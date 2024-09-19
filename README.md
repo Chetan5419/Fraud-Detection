@@ -1,5 +1,5 @@
-## Fraud-Detection
-# Fraud Detection in Financial Transactions Using Machine Learning
+# Fraud-Detection
+
 The project involves developing and evaluating multiple machine learning models to detect fraudulent transactions. The dataset includes features such as transaction type, amount, and old/new balances, which are used to train the models for fraud detection.
 
 # Data columns
